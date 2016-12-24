@@ -3,7 +3,7 @@
 * Neurocognetics (Когнитивная нейронаука)
     * Electrochemical processes in brain and nervous system
 * Perception (Восприятие)
-    * Detection and interpretation of sensor stiluli
+    * Detection and interpretation of sensor stimuli
 * Pattern Recognition (Распознавание паттернов)
 * Attention (Внимание)
 * Consciousness(Сознание)
