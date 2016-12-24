@@ -1,7 +1,9 @@
 # cognetics #
 
 * Neurocognetics (Когнитивная нейронаука)
+    * Electrochemical processes in brain and nervous system
 * Perception (Восприятие)
+    * Detection and interpretation of sensor stiluli
 * Pattern Recognition (Распознавание паттернов)
 * Attention (Внимание)
 * Consciousness(Сознание)
